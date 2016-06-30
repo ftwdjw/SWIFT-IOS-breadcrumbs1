@@ -4,7 +4,7 @@
 //
 //  Created by Nicholas Outram on 20/01/2016.
 //  Copyright © 2016 Plymouth University. All rights reserved.
-//
+//  This version does not crash when the map view is zoomed out
 
 import UIKit
 import MapKit
